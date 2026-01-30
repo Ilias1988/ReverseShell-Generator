@@ -57,7 +57,7 @@ A standalone, dark-themed GUI application for generating reverse shell payloads.
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/RevShell-Generator.git
+git clone https://github.com/Ilias1988/RevShell-Generator.git
 
 # Navigate to the project directory
 cd RevShell-Generator
